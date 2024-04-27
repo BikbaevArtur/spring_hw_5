@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.bikbaev.hw_4</groupId>
-    <artifactId>spring_hw_5</artifactId>
+    <artifactId>spring_hw_5_1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring_hw_5</name>
     <description>spring_hw_5</description>

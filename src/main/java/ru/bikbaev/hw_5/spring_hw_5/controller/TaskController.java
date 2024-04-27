@@ -1,8 +1,8 @@
-package ru.bikbaev.hw_4.spring_hw_5.controller;
+package ru.bikbaev.hw_5.spring_hw_5.controller;
 import org.springframework.web.bind.annotation.*;
-import ru.bikbaev.hw_4.spring_hw_5.model.Task;
-import ru.bikbaev.hw_4.spring_hw_5.model.TaskStatus;
-import ru.bikbaev.hw_4.spring_hw_5.service.TaskService;
+import ru.bikbaev.hw_5.spring_hw_5.model.Task;
+import ru.bikbaev.hw_5.spring_hw_5.model.TaskStatus;
+import ru.bikbaev.hw_5.spring_hw_5.service.TaskService;
 
 import java.util.List;
 

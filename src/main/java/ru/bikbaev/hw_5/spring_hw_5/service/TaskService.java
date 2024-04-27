@@ -1,9 +1,9 @@
-package ru.bikbaev.hw_4.spring_hw_5.service;
+package ru.bikbaev.hw_5.spring_hw_5.service;
 
 import org.springframework.stereotype.Service;
-import ru.bikbaev.hw_4.spring_hw_5.data.TaskRepository;
-import ru.bikbaev.hw_4.spring_hw_5.model.Task;
-import ru.bikbaev.hw_4.spring_hw_5.model.TaskStatus;
+import ru.bikbaev.hw_5.spring_hw_5.data.TaskRepository;
+import ru.bikbaev.hw_5.spring_hw_5.model.Task;
+import ru.bikbaev.hw_5.spring_hw_5.model.TaskStatus;
 
 import java.util.List;
 

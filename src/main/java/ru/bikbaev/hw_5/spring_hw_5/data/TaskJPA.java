@@ -1,11 +1,11 @@
-package ru.bikbaev.hw_4.spring_hw_5.data;
+package ru.bikbaev.hw_5.spring_hw_5.data;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.transaction.annotation.Transactional;
-import ru.bikbaev.hw_4.spring_hw_5.model.Task;
-import ru.bikbaev.hw_4.spring_hw_5.model.TaskStatus;
+import ru.bikbaev.hw_5.spring_hw_5.model.Task;
+import ru.bikbaev.hw_5.spring_hw_5.model.TaskStatus;
 
 import java.util.List;
 

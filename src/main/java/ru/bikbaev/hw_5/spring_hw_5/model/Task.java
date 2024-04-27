@@ -1,10 +1,9 @@
-package ru.bikbaev.hw_4.spring_hw_5.model;
+package ru.bikbaev.hw_5.spring_hw_5.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

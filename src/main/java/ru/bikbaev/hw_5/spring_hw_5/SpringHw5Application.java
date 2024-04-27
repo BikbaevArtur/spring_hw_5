@@ -1,4 +1,4 @@
-package ru.bikbaev.hw_4.spring_hw_5;
+package ru.bikbaev.hw_5.spring_hw_5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

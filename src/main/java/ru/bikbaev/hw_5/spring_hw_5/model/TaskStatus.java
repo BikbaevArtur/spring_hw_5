@@ -1,4 +1,4 @@
-package ru.bikbaev.hw_4.spring_hw_5.model;
+package ru.bikbaev.hw_5.spring_hw_5.model;
 
 public enum TaskStatus {
 
